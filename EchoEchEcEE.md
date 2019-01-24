@@ -30,3 +30,13 @@ https://ihower.tw/blog/archives/6483
 
 ## CPU bound? I/O bound?
 
+
+# **如何 C# 6.0 簡化、 澄清和凝聚你的代碼**
+
+https://msdn.microsoft.com/zh-tw/magazine/dn879355.aspx
+
+
+
+# ETL Testing or Data Warehouse Testing Tutorial
+
+https://www.guru99.com/utlimate-guide-etl-datawarehouse-testing.html
