@@ -27,3 +27,6 @@ https://zipkin.io/
 https://www.restapitutorial.com/lessons/idempotency.html
 
 https://ihower.tw/blog/archives/6483
+
+## CPU bound? I/O bound?
+
