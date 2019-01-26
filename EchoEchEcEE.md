@@ -46,3 +46,7 @@ https://msdn.microsoft.com/zh-tw/magazine/dn879355.aspx
 # ETL Testing or Data Warehouse Testing Tutorial
 
 https://www.guru99.com/utlimate-guide-etl-datawarehouse-testing.html
+
+ 
+
+...
