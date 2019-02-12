@@ -41,7 +41,13 @@ https://msdn.microsoft.com/zh-tw/magazine/dn879355.aspx
 
 https://www.guru99.com/utlimate-guide-etl-datawarehouse-testing.html
 
+# 
+
  
+
+# ETL 
+
+http://www.leapfrogbi.com/2013/05/11/etl-design-patterns-the-foundation/
 
 ...
 
