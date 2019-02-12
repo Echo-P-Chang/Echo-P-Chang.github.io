@@ -16,10 +16,10 @@ Describes the insertion of data into the final target database such as an operat
 
 
 
-# Proprofs API:
+# 
 
-|               | Endpoint                                                     | Document                                       |
-| ------------- | ------------------------------------------------------------ | ---------------------------------------------- |
-|               | Endpoint                                                     | Document                                       |
-| Ticket Create | [https://](https://apidocs.proprofs.com/create-a-ticket)[desk.proprofs.com/api](http://desk.proprofs.com/api)/v1/create/ticket/ | <https://apidocs.proprofs.com/create-a-ticket> |
-| Ticket Update | [https://](https://apidocs.proprofs.com/update-a-ticket)[desk.proprofs.com/api](http://desk.proprofs.com/api)/v1/update/ticket/ | <https://apidocs.proprofs.com/update-a-ticket> |
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
