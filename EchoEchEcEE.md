@@ -51,7 +51,11 @@ http://www.leapfrogbi.com/2013/05/11/etl-design-patterns-the-foundation/
 
 ...
 
+CQRS
 
+https://docs.microsoft.com/zh-tw/azure/architecture/guide/architecture-styles/cqrs
+
+https://docs.microsoft.com/zh-tw/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/eshoponcontainers-cqrs-ddd-microservice
 
 
 
