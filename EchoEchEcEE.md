@@ -67,3 +67,6 @@ https://docs.microsoft.com/zh-tw/dotnet/standard/microservices-architecture/micr
 
 
 
+# Cross-platform Time Zones with .NET Core
+
+https://devblogs.microsoft.com/dotnet/cross-platform-time-zones-with-net-core/
