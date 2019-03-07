@@ -70,3 +70,11 @@ https://docs.microsoft.com/zh-tw/dotnet/standard/microservices-architecture/micr
 # Cross-platform Time Zones with .NET Core
 
 https://devblogs.microsoft.com/dotnet/cross-platform-time-zones-with-net-core/
+
+
+
+
+
+# Models and Their Interfaces in C# API Design
+
+https://www.infoq.com/articles/CSharp-Models?itm_source=articles_about_DesignPattern&itm_medium=link&itm_campaign=DesignPattern
