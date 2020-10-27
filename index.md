@@ -4,7 +4,7 @@
 
 ------
 
-Reading now:
+Reading now:  
 
 https://www.infoq.com/news/2019/01/rearchitecture-system-success
 
