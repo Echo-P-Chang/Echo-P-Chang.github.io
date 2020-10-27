@@ -10,13 +10,7 @@ https://www.easycamp.com.tw/Store_2410.html
 
 ![image-20201027152901678](image-20201027152901678.png)
 
-# 苗栗三義 五福山莊
 
-四人雅房*4, 一間2000  (生意不好的那間)
-
-https://www.easycamp.com.tw/Store_2432.html
-
-![image-20201027152940823](image-20201027152940823.png)
 
 # 野薑花
 
