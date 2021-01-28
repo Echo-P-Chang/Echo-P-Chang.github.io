@@ -1,3 +1,5 @@
+# Job Interview
+
 # talking about the current job
 
 Currently, I'm working at Acer and I have been here for about 2 years, This has become s a stable enviroment, in ther words, this kind of enviromen reduce smy Competitiveness. For past 2 years, i've been working as solution architect and focused on system design and integration. according to this role, i've learned the tasks and schedule management with our vendors. The programming works are rely on our vendor. Its a pure trade off, therearen`t as many opportinities to practice the programming skills.
