@@ -2,7 +2,7 @@
 
 # talking about the current job
 
-Currently, I'm working at Acer and I have been here for about 2 years, This has become s a stable enviroment, in ther words, this kind of enviromen reduce smy Competitiveness. For past 2 years, i've been working as solution architect and focused on system design and integration. according to this role, i've learned the tasks and schedule management with our vendors. The programming works are rely on our vendor. Its a pure trade off, therearen`t as many opportinities to practice the programming skills.
+Currently, I'm working at Acer and I have been here for about 2 years, This has become s a stable environment, in other words, this kind of environment reduces my Competitiveness. For past 2 years, I've been working as solution architect and focused on system design and integration. according to this role, I've learned the tasks and schedule management with our vendors. The programming works are rely on our vendor. Its a pure trade off, there aren't as many opportunities to practice the programming skills.
 
 # why do you want to quit
 
@@ -37,15 +37,15 @@ I am also very persevering, I tend to keep going until the objective has been re
 
 # what are your professional achievements?
 
-Micro-service is a new design methodology in 2015 Taiwan. At that time, I was a member in ECommerce team in Trendmicro and has been assigned to engage with Micro-service. During the adoption, every teams have to propose their service model and integration method to other service teams. The committee also review the architecture to meet the micro-service rule. I was a pilot of my team to carry team into micro-service's world. It's a milestone in my career.
+Micro-service was a new design methodology in 2015 Taiwan. At that time, I was a member in ECommerce team in Trendmicro and have been assigned to engage with Micro-service. During the adoption, each team had to propose their service model and integration method to other service teams. After that, The committee would also review the architecture to see if it meets the micro-service requirement. I was chosen by my team to carry out the micro-service's architecture. 
 
-
+It was a challenge for me, because i didn't have any experience about micro-service. at the beginning, my design was always rejected by the committee; eventually, I was able to resolve all the design issues and meet the MS requirements. It's a big milestone in my career.
 
 # why should Microsoft hire you?
 
-In my past career, all interviews are focus on the understanding of programming language, framework and used library. From the other angel of view, those companies are recruiting only a programmer. But Trendmicro. they focus on the personality and the potential ,bla bla bla~~~~
+In my past career, all interviews would focus on the understanding of programming language, framework and used library. From the other angle/point of view, those companies were recruiting a programmer only. But Trendmicro. they focus on the personality and the potential, So, apart from hard skills, it is important to be a team player, to fit into the environment well. 
 
-And again, I was lost and realize nothing comes for free. therefore, I always do my best to achieve the goal and treasure very much for any returns. In addition, Creative thinking is my other skill. I've found lots projects blink area to avoid critical defect. Maybe that's why I was promoted as a Solution architect. 
+And again, at some point in my life, I was lost and it made me realize nothing comes for free. therefore, I always set the bar high and do my best to achieve the goal (and treasure any returns deeply). In addition, Creative thinking is my other skill. I found lots of projects blind areas, therefore we managed to avoid critical defects. Maybe that's why I was promoted as a Solution architect. 
 
 
 
