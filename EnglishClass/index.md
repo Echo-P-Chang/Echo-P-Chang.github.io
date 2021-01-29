@@ -32,3 +32,32 @@ I worked at Trendmicro. one of my projects was working with EMEA engineers. I wa
 
 I believe  I am Creative. I am able to Analyze things from several dimensions and also accept different opinions. But that does not mean my decision could be impacted easily. In addition, Due to the artist temperament, I feel convinced only after proper evidence has been provided.
 I am also very persevering, I tend to keep going until the objective has been reached. 
+
+
+
+# what are your professional achievements?
+
+Micro-service is a new design methodology in 2015 Taiwan. At that time, I was a member in ECommerce team in Trendmicro and has been assigned to engage with Micro-service. During the adoption, every teams have to propose their service model and integration method to other service teams. The committee also review the architecture to meet the micro-service rule. I was a pilot of my team to carry team into micro-service's world. It's a milestone in my career.
+
+
+
+# why should Microsoft hire you?
+
+In my past career, all interviews are focus on the understanding of programming language, framework and used library. From the other angel of view, those companies are recruiting only a programmer. But Trendmicro. they focus on the personality and the potential ,bla bla bla~~~~
+
+And again, I was lost and realize nothing comes for free. therefore, I always do my best to achieve the goal and treasure very much for any returns. In addition, Creative thinking is my other skill. I've found lots projects blink area to avoid critical defect. Maybe that's why I was promoted as a Solution architect. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
