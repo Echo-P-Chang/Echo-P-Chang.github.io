@@ -61,3 +61,83 @@ And again, at some point in my life, I was lost and it made me realize nothing c
 
 
 
+THE Interview
+
+0. introduce your self
+
+1. descript your current job
+
+2. please explain the architecture (draw it down please)
+
+3. how you do the authentication or authorization for the façade?
+
+4. how to resolve if any high workload problem?
+
+5. what's the achievement of the job
+
+6. how you learn new technologies?
+
+7. how to manage the project with a team
+
+8. if conflict, how to resolve the conflict?
+
+9. how you start for the system
+
+10. do you know DI? how do you use it? why it is important in tests?
+
+11. do you know IDispose?
+
+
+    --------------------------------------------------------------
+
+    User service (lambda)	Device service 		Product service 
+    	worker (docker)
+    		
+    						AWS IoT core with MQTT 
+    	--------------------------------------------------------
+    						Mediator paten
+    					AWS Lambda	+	Dynamo DB 
+    					
+    				Facad 	service		+  API-Gateway
+    						
+    					1. X.509 for APP
+
+
+    ​						
+    ​						
+    	--------------------------------------------------------
+    	
+    			iOS APP 		Android App		Air device
+    -------------------------------------------------------------------------------------
+
+    " Given an array of string, write a function to find the longest common prefix of this array.
+
+    Example input - 
+    ["microsoft","mice","mitigate"]
+
+    Example output - "mi"
+
+    -------------------------------------------------------------------------------------------
+
+            public static  string takeLogest(List<string> input)
+            {
+                //["microsoft","mice","mitigate"]
+                //{abc,ade,ty}
+                string target = string.Empty;
+        
+                for (int i = 0; i < input[0].Length; i++)
+                {
+                    target += input[0][i];
+                    //a
+                    for (int j = 0; j < input.Count; j++)
+                    {
+                        if (input[j].StartsWith(target))
+                            continue;
+                        else
+                            return target;
+                    }
+                }
+                
+                return target;
+            }
+
