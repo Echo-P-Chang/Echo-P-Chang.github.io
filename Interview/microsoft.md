@@ -1,9 +1,3 @@
-# Job Interview
-
-
-
-
-
 ## Questions
 
 1. introduce your self
@@ -46,8 +40,9 @@
     ["microsoft","mice","mitigate"]
     
     Example output - "mi"
-    
-    
+
+
+​    
     我的回答
             public static  string takeLogest(List<string> input)
             {
