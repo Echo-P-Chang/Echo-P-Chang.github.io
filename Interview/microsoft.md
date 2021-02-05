@@ -45,18 +45,18 @@
 第3題
 
 
-    User service (lambda)	Device service 		Product service
-    	worker (docker)		worker (docker)		worker (docker)
-    					AWS IoT core with MQTT
-    	/////////////////////////////////////////////////////////////////////////
-    					Mediator pattern
-    				AWS Lambda	+	Dynamo DB
-    	/////////////////////////////////////////////////////////////////////////
+    User service (lambda)	Device service		Product service
+    worker (docker)			worker (docker)		worker (docker)
+    			AWS IoT core with MQTT
+    /////////////////////////////////////////////////////////////////////////
+    			Mediator pattern
+    			AWS Lambda	+	Dynamo DB
+    /////////////////////////////////////////////////////////////////////////
     			Facad service	+	API-Gateway
     
-    				1. X.509 for APP + oAuth
-    	/////////////////////////////////////////////////////////////////////////
-    		iOS APP 		Android App		Air device
+    			1. X.509 for APP + oAuth
+    /////////////////////////////////////////////////////////////////////////
+    	iOS APP 		Android App		Air device
 
 程式題​    
 
@@ -85,3 +85,8 @@ public static  string takeLogest(List<string> input)
 }
 ```
 
+
+
+
+
+version: 1.0.0.0
