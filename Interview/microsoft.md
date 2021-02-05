@@ -39,31 +39,26 @@
 
     Example output - "mi"
 
-    
-
-    
-
     ## 回答
 
-    第3題
+
+第3題
 
 
-    User service (lambda)	Device service 		Product service 
+    User service (lambda)	Device service 		Product service
     	worker (docker)		worker (docker)		worker (docker)
-    	/////////////////////////////////////////////////////////////////////////	
-    					AWS IoT core with MQTT 
+    					AWS IoT core with MQTT
     	/////////////////////////////////////////////////////////////////////////
     					Mediator pattern
-    				AWS Lambda	+	Dynamo DB 
-    					
+    				AWS Lambda	+	Dynamo DB
+    	/////////////////////////////////////////////////////////////////////////
     			Facad service	+	API-Gateway
-    						
+    
     				1. X.509 for APP + oAuth
     	/////////////////////////////////////////////////////////////////////////
     		iOS APP 		Android App		Air device
 
-​    程式題
-​    
+程式題​    
 
 ```c#
 
