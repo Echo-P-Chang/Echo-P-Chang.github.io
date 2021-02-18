@@ -4,33 +4,33 @@
 
 
 
-## Questions
+## Round 1
 
-1. introduce your self
+1. Introduce your self
 
-2. descript your current job
+2. Descript your current job
 
-3. please explain the architecture (draw it down please)
+3. Please explain the architecture (draw it down please)
 
-4. how you do the authentication or authorization for the façade?
+4. How you do the authentication or authorization for the façade?
 
-5. how to resolve if any high workload problem?
+5. How to resolve if any high workload problem?
 
-6. what's the achievement of the job
+6. What's the achievement of the job
 
-7. how you learn new technologies?
+7. How you learn new technologies?
 
-8. how to manage the project with a team
+8. How to manage the project with a team
 
-9. if conflict, how to resolve the conflict?
+9. If conflict, how to resolve the conflict?
 
-10. how you start for the system
+10. How you start for the system
 
-11. do you know DI? how do you use it? why it is important in tests?
+11. Do you know DI? how do you use it? why it is important in tests?
 
-12. do you know IDispose?
+12. Do you know IDispose?
 
-13. 程式題
+13. Programming test:
 
     " Given an array of string, write a function to find the longest common prefix of this array.
 
@@ -39,54 +39,103 @@
 
     Example output - "mi"
 
-## 回答
 
 
-**第3題**
+## Round 2
 
+1. Talk about the experience.
 
-    User service (lambda)	Device service		Product service
-    worker (docker)		worker (docker)		worker (docker)
-    		AWS IoT core with MQTT
-    ////////////////////////////////////////////////////////////////
-    			Mediator pattern
-    		AWS Lambda	+	Dynamo DB
-    ////////////////////////////////////////////////////////////////
-    		Facad service	+	API-Gateway
-    
-    			1. X.509 for APP + oAuth
-    ////////////////////////////////////////////////////////////////
-    	iOS APP 		Android App		Air device
+2. Please descript what C# is?
 
-**程式題​**    
+3. Please explain ASP.NET.
 
-```c#
+4. Please explain GC.
 
-public static  string takeLogest(List<string> input)
-{
-    //["microsoft","mice","mitigate"]
-    //{abc,ade,ty}
-    string target = string.Empty;
+5. What's the different between mutable and immutable?
 
-    for (int i = 0; i < input[0].Length; i++)
-    {
-        target += input[0][i];
-        //a
-        for (int j = 0; j < input.Count; j++)
-        {
-            if (input[j].StartsWith(target))
-                continue;
-            else
-                return target;
-        }
-    }
+6. For struct, what's the different with an object?
 
-    return target;
-}
-```
+7. Programming test:
+
+   To merge and sort for 2 integer array
+
+   ## Round 3
 
 
 
 
+1. Talk about the experience.
 
-version: 1.0.0.1
+2. Programming test:
+   design a shortening URL system
+
+## Round 4
+
+1. Talk about the experience.
+
+2. How to resolve the API backward compatible?
+
+3. Programming test:
+   Given sets of integer, find out the at least common element and merge the sets. 
+
+   For example: 
+
+   Input:
+
+   [2, 4, 6, 8]
+
+   [1, 6, 10, 23]
+
+   [7, 9]
+
+   [3, 5, 11]
+
+   Result:
+
+   [2, 4, 6, 8, 1, 10, 23]
+
+   
+
+## Round 5
+
+1. Talk about the experience.
+
+2. How to decide which framework / library for your system?
+
+3. What's the procedure for release a new version of API in a microservice architecture?
+
+4. How to improve the system architecture
+
+5. Programming test:
+   Mobile app has a function, that would query the nearest 10 coffee shops on the map. Please design a back-end service for client, to provide a list of coffee shops.
+
+   ## Round 6
+
+   1. Talk about the experience.
+
+   2. What's your biggest challenge in your career?
+
+   3. What's your weakness?
+
+   4. Programming test:
+      Gevin M arrays, all array are sorted, Please find out k-th element of these arrays. And please also explain the time complexity. 
+
+      For example:
+
+      [1, 6, 19, 23]
+
+      [4, 8, 100, 123]
+
+      [20, 52, 66, 98]
+
+      Iif k=5 then the result is 20
+
+      If k=8 then the result is 52
+
+      
+
+
+
+
+
+version: 2.0.0.0
